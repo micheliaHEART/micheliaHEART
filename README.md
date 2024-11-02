@@ -1,8 +1,6 @@
-OS: Windows 10
-
-Software: Krita 5.2.6, OpenToonz 1.7.1, Inkscape 0.92.5, LibreOffice, FontForge
-
-Hardware: Huion HS611
+- OS: Windows 10
+- Software: Krita 5.2.6, OpenToonz 1.7.1, Inkscape 1.4, LibreOffice, FontForge
+- Hardware: Huion HS611
 
 <!--
 **micheliaHEART/micheliaHEART** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
