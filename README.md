@@ -1,5 +1,5 @@
 - OS: Windows 10
-- Software: Krita 5.2.9, OpenToonz 1.7.1, Inkscape 1.4, LibreOffice, FontForge
+- Software: Krita 5.2.10, OpenToonz 1.7.1, Inkscape 1.4, LibreOffice, FontForge
 - Hardware: Huion HS611
   
 ![](https://komarev.com/ghpvc/?username=micheliaHEART&color=blueviolet)
