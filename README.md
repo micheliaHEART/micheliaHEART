@@ -1,6 +1,10 @@
-- OS: Windows 10
-- Software: Krita 5.2.13, OpenToonz 1.7.1, Inkscape 1.4, LibreOffice, FontForge
-- Hardware: Huion HS611
+OS: Windows 10  
+Software: Krita 5.2.13, OpenToonz 1.7.1, Inkscape 1.4, LibreOffice, FontForge  
+Hardware:
+- Intel® Core™ i5-4200U
+- 8 GB RAM
+- NVIDIA GeForce GT 720M 2 GB
+- Huion HS611
   
 ![](https://komarev.com/ghpvc/?username=micheliaHEART&color=blueviolet)
 <!--
