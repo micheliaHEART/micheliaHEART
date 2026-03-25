@@ -1,5 +1,5 @@
 OS: Windows 10  
-Software: Krita 5.2.13, OpenToonz 1.7.1, Inkscape 1.4, LibreOffice, FontForge  
+Software: Krita 5.3.0, OpenToonz 1.7.1, Inkscape 1.4, LibreOffice, FontForge  
 Hardware:
 - Intel® Core™ i5-4200U
 - 8 GB RAM
