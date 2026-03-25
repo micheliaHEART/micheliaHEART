@@ -12,7 +12,7 @@ Hardware:
 
 ---
 
-I'm a creator building **Virtualoka** – a multi-IP creative studio somewhere between
+I'm a director building **Virtualoka** – a multi-IP creative studio somewhere between
 an animation house, a publisher, a type foundry, and a community.
 
 ---
