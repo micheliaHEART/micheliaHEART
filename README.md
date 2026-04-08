@@ -23,7 +23,7 @@ an animation house, a publisher, a type foundry, and a community.
 A 2D anima & rita series. Four siblings. One city. Three languages — English, Indonesian,
 Japanese — not translated. Localized.
 
-**Live on Fantasy**  
+**live-ON! Fantasy**  
 The same four souls, echoed into a dark fantasy world called Nuzvathara.
 Same soul. Completely different fate. Independent canon.
 
