@@ -8,6 +8,9 @@ Hardware:
   
 ![](https://komarev.com/ghpvc/?username=micheliaHEART&color=blueviolet)
 
+<!-- wait my server is full! -->
+[![Discord Presence](https://lanyard.cnrad.dev/api/1155659996252602448)](https://discord.com/users/1155659996252602448)
+
 > everything below this written by AI
 
 ---
