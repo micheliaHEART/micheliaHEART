@@ -30,7 +30,7 @@ Japanese — not translated. Localized.
 The same four souls, echoed into a dark fantasy world called Nuzvathara.
 Same soul. Completely different fate. Independent canon.
 
-**Luminary**  
+**Luminari**  
 Educational series for teens (13–18). Live-ON! characters as guest professors.
 
 **Nasi & Roti**  
