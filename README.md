@@ -45,6 +45,9 @@ Python is a colleague who can do anything but runs a little slow.
 A ghost comedy. A guy who can see ghosts did not ask for this.
 Four ghost girls have moved into his house. He is managing.
 
+**GMB**
+Crypto-native slice-of-life. Bita just graduated from high school and sees the world through the lens of crypto. It’s not about the market; it’s about a girl who thinks in crypto.
+
 And the arms that hold it together —
 type foundry, fiction imprint, game dev, apps, non-fiction publishing.
 
