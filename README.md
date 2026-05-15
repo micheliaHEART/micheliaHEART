@@ -33,7 +33,7 @@ Same soul. Completely different fate. Independent canon.
 **Luminari**  
 Educational series for teens (13–18). Live-ON! characters as guest professors.
 
-**Nasi & Roti (NaR)**  
+**Nasi & Roti** *(NaR)*  
 Absurdist comedy. Half-sisters Nasi and Roti. Nasi commits fully to catastrophic logic.
 Roti watches it happen. The studio's chaos IP.
 
@@ -41,14 +41,14 @@ Roti watches it happen. The studio's chaos IP.
 Slice-of-life in a world where software are people. Mona is GitHub.
 Python is a colleague who can do anything but runs a little slow.
 
-**Black n Sweet (BnS)**  
+**Black n Sweet** *(BnS)*  
 A ghost comedy. A guy who can see ghosts did not ask for this.
 Four ghost girls have moved into his house. He is managing.
 
-**Good Morning Bita (GMB)**
+**Good Morning Bita** *(GMB)*  
 Crypto-native slice-of-life. Bita just graduated from high school and sees the world through the lens of crypto. It’s not about the market; it’s about a girl who thinks in crypto.
 
-**Red and White**
+**Red and White** *(RaW)*  
 Lived-Islam slice-of-life. A warm family drama centering on a harmonious polygamous household. Two mothers, two half-siblings born weeks apart, and a home defined by the "Merah dan Putih" identity.
 
 And the arms that hold it together —
