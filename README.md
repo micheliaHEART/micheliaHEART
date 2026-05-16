@@ -49,7 +49,7 @@ Four ghost girls have moved into his house. He is managing.
 Crypto-native slice-of-life. Bita just graduated from high school and sees the world through the lens of crypto. It’s not about the market; it’s about a girl who thinks in crypto.
 
 **Red and White** *(RaW)*  
-Lived-Islam slice-of-life. A warm family drama centering on a harmonious polygamous household. Two mothers, two half-siblings born weeks apart, and a home defined by the "Merah dan Putih" identity.
+Lived-Islam slice-of-life. A warm family drama centering on a harmonious polygamous household. Two mothers, two half-siblings born days apart, and a home defined by the "Merah dan Putih" identity.
 
 And the arms that hold it together —
 type foundry, fiction imprint, game dev, apps, non-fiction publishing.
